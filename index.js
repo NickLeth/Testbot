@@ -19,4 +19,4 @@ client.on('guildMemberAdd', guildMember => {
     guildMember.guild.channels.cache.get('800607041801682954').send(`Velkommen til <@${guildMember.user.id}>`)
 });
 
-client.login('NTg2OTc1NzMyNzU3MTY4MTI4.XPv1wA.A27ShIhRPYXQU0TNZOt7wX0b3DY');
+client.login('You token');
